@@ -20,6 +20,9 @@
 
 define('WP_REDIS_HOST', 'lpwordpress.mamxg9.ng.0001.euw2.cache.amazonaws.com:6379');
 
+define('WP_HOME','loveparadox-1587058074.eu-west-2.elb.amazonaws.com');
+define('WP_SITEURL','loveparadox-1587058074.eu-west-2.elb.amazonaws.com');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'lpdb');
